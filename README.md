@@ -1,8 +1,9 @@
 # core-code-from-scratch-readme
 Mi explicacion aserca de la compilacion e interpretacion.
 
-    Algunos lenguajes de maquina antiguos se crearon con la funcionalidad de interpretar directamente el codigo hacia la maquina
-    con  el pasar del tiempo otros usuarios de la misma, para facilitar el uso de los lenguajes hacia el usuario
+    Algunos lenguajes de maquina antiguos se crearon con la funcionalidad de interpretar directamente el codigo
+    hacia la maquina  con  el pasar del tiempo otros usuarios de la misma, para facilitar el uso de los lenguajes
+    hacia el usuario
     tradujeron la interpretacion a compilacion para que sea mas entendible su funcionalidad para el programador,
     Ahorrandose tiempo al programar.
 
