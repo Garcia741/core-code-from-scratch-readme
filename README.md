@@ -16,12 +16,12 @@ Mi explicacion aserca de la compilacion e interpretacion.
 Conversor de Divisas.
  
     Pasos
-    Comenzamos pidiendo al usuario sus datos.
-    luego pedimos la cantidad de dolares que el usuario ingresara
-    creamos una conversion de dolares a cantidad bitcoin
-    mostramos el resultado de cantidad de bitcoins que compro
-    por la cantidad de dolares que aporto.
-    finalizamos mostrando su recibo.
+    *Comenzamos pidiendo al usuario sus datos (" ").
+    *luego pedimos la cantidad de dolares que el usuario ingresara ("")
+    *creamos una conversion de dolares a cantidad bitcoin ("$/b$")
+    *mostramos el resultado de cantidad de bitcoins que compro 
+     por la cantidad de dolares que aporto.
+    *finalizamos mostrando su recibo.
 
 Codigo de Alto y Bajo nivel.
     
@@ -30,3 +30,6 @@ Codigo de Alto y Bajo nivel.
     para que sea mas facil de programar al momento de comenzar a hechar codigo.
     El codigo de bajo nivel: es el que se utiliza directamente desde la maquina con unos y seros
     no necesita de un traductor o compilador es un poco más complicado pero gasta menos recursos del sistema.
+
+
+# Miercoles
