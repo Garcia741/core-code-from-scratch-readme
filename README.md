@@ -93,3 +93,14 @@ Fecha de nacimiento en la Matriz.
             li $v0, 4
             la $a0, my_name
             syscall
+
+
+
+# Jueves 
+
+
+var i = 0;
+while (i <= 100) {
+  if (i % 2 == 0) console.log(i);
+  i++;
+}
