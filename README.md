@@ -1,4 +1,5 @@
 # core-code-from-scratch-readme
+# Martes
 Mi explicacion aserca de la compilacion e interpretacion.
 
     Algunos lenguajes de maquina antiguos se crearon con la funcionalidad de interpretar directamente el 
@@ -14,7 +15,7 @@ Mi explicacion aserca de la compilacion e interpretacion.
 
 Conversor de Divisas.
  
- Pasos
+    Pasos
     Comenzamos pidiendo al usuario sus datos.
     luego pedimos la cantidad de dolares que el usuario ingresara
     creamos una conversion de dolares a cantidad bitcoin
