@@ -33,3 +33,8 @@ Codigo de Alto y Bajo nivel.
 
 # Miercoles
 
+Fecha de nacimiento en la Matriz.
+
+    # 1998 = (11111001110);
+
+
