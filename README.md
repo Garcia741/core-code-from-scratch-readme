@@ -31,5 +31,3 @@ Codigo de Alto y Bajo nivel.
     El codigo de bajo nivel: es el que se utiliza directamente desde la maquina con unos y seros
     no necesita de un traductor o compilador es un poco más complicado pero gasta menos recursos del sistema.
 
-
-# Miercoles
