@@ -13,6 +13,7 @@ Mi explicacion aserca de la compilacion e interpretacion.
     que luego se interpreta a codigo de maquina.
 
 Conversor de Divisas.
+ 
  Pasos
     Comenzamos pidiendo al usuario sus datos.
     luego pedimos la cantidad de dolares que el usuario ingresara
