@@ -38,3 +38,58 @@ Fecha de nacimiento en la Matriz.
     # 1998 = (11111001110);
 
 
+* Crear un programa que agregue dos números proporcionados por el usuario
+* Crea un programa que muestre tu nombre
+
+  .data
+        welcome: .asciiz "\n================= Welcome =================\n"
+        result: .asciiz "\n Programa suma de dor numeros : "
+        number_one_msg: .asciiz "\nIngrese primer numero: "
+        number_two_msg: .asciiz "\nIngrese segundo numero: "
+	my_name: .asciiz "\n\tRicardo\n"
+  .text
+        main:
+              # welcome message
+              li $v0, 4
+              la $a0, welcome
+              syscall
+
+              # user input
+              li $v0, 4
+              la $a0, number_one_msg
+              syscall
+
+              li $v0, 5
+              syscall
+
+              # saving user input
+              move $t0, $v0
+
+              # user input
+              li $v0, 4
+              la $a0, number_two_msg
+              syscall
+
+              li $v0, 5
+              syscall
+
+              # saving user input
+              move $t1, $v0
+
+              # adding the user numbers
+              add $t2, $t0, $t1
+
+              # showing result number
+              li $v0, 4
+              la $a0, result
+              syscall
+
+              # printing number
+              li $v0, 1
+              move $a0, $t2
+              syscall
+         
+
+            li $v0, 4
+            la $a0, my_name
+            syscall
