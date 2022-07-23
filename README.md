@@ -14,6 +14,13 @@ Mi explicacion aserca de la compilacion e interpretacion.
 
 Conversor de Divisas.
 
+    Comenzamos pidiendo al usuario sus datos.
+    luego pedimos la cantidad de dolares que el usuario ingresara
+    creamos una conversion de dolares a cantidad bitcoin
+    mostramos el resultado de cantidad de bitcoins que compro
+    por la cantidad de dolares que aporto.
+    finalizamos mostrando su recibo.
+
 Codigo de Alto y Bajo nivel.
     
     Un codigo de Alto nivel: es el que utiliza diveros medios para traducir el lenguaje maquina
