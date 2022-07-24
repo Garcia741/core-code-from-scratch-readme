@@ -98,7 +98,7 @@ Fecha de nacimiento en la Matriz.
 
 
 # Jueves 
-  Inprecion de numeros Iterativos pares del (0 al 100)
+  Imprecion de numeros Iterativos pares del (0 al 100)
 
     var i = 0;
     while (i <= 100) {
