@@ -107,10 +107,10 @@ Fecha de nacimiento en la Matriz.
     console.log("numero especial");
     }
 
-  Codigo Incorrecto.
+  Codigo Incorrecto 1.
    
     var cond = false;
-    
+
     if (cond == true) {
       console.log('The cond variable is true');
     } else {
