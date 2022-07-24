@@ -106,3 +106,12 @@ Fecha de nacimiento en la Matriz.
     }if(i=100){
     console.log("numero especial");
     }
+
+  Codigo Incorrecto.
+    var cond = false;
+
+    if (cond == true) {
+      console.log('The cond variable is true');
+    } else {
+      console.log('The cond variable is false');
+    }
