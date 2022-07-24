@@ -1,4 +1,5 @@
 # core-code-from-scratch-readme
+# week 1
 # Martes
 Mi explicacion aserca de la compilacion e interpretacion.
 
