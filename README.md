@@ -108,8 +108,9 @@ Fecha de nacimiento en la Matriz.
     }
 
   Codigo Incorrecto.
+   
     var cond = false;
-
+    
     if (cond == true) {
       console.log('The cond variable is true');
     } else {
