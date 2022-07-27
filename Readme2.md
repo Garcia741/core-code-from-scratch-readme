@@ -25,8 +25,11 @@ Lectura (Function)
     Una funcion es un constructor que nos permite generar una opcion de un menu que solo
     se debe llamar a la funcion ala parte principal y ejecutara todo su contenido 
     tambien en otros casos se le conoce como arreglos.
-    
 
-multiply = function (a, b) {
-  return a * b;
-}
+# Martes
+
+Ejercicio multiplicación
+
+    multiply = function (a, b) {
+      return a * b;
+    }
