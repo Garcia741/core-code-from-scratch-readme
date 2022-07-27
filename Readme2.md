@@ -14,6 +14,19 @@ Lectura de sentencia (for)
     y que finalize en 100 y el programa realizara el bucle hasta contar los 100 
     numeros que se le asignaron. finaliza ejecucion luego de la validacion. 
 
+Lectura de sentencia (while)
+
+    La sentencia while nos permite crear un bucle sin fin, de manera que el programa
+    compilara las mil veces que querramos hasta donde le pongamos un tope para
+    finalizar, caso contrario no se detendra.
+
+Lectura (Function)
+
+    Una funcion es un constructor que nos permite generar una opcion de un menu que solo
+    se debe llamar a la funcion ala parte principal y ejecutara todo su contenido 
+    tambien en otros casos se le conoce como arreglos.
+    
+
 multiply = function (a, b) {
   return a * b;
 }
