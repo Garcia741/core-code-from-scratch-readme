@@ -43,6 +43,7 @@ Fecha de nacimiento en la Matriz.
 * Crea un programa que muestre tu nombre
 
   .data
+        
         welcome: .asciiz "\n================= Welcome =================\n"
         result: .asciiz "\n Programa suma de dor numeros : "
         number_one_msg: .asciiz "\nIngrese primer numero: "
