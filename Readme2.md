@@ -34,3 +34,13 @@ Ejercicio multiplicación
       return a * b;
     }
 
+Ejercicio Ascii.
+
+    function uniTotal(codigo) {
+    let longitud = codigo.length;
+    let suma = 0;
+    for (let i = 0; i < longitud; i++){
+        suma = suma + codigo.charCodeAt(i);
+    }
+    return suma;
+    }
