@@ -47,8 +47,8 @@ Fecha de nacimiento en la Matriz.
         result: .asciiz "\n Programa suma de dor numeros : "
         number_one_msg: .asciiz "\nIngrese primer numero: "
         number_two_msg: .asciiz "\nIngrese segundo numero: "
-	my_name: .asciiz "\n\tRicardo\n"
-  .text
+	      my_name: .asciiz "\n\tRicardo\n"
+        .text
         main:
               # welcome message
               li $v0, 4
