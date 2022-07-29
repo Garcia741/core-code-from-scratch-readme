@@ -47,3 +47,11 @@ Ejercicio Ascii.
 
 # Miercoles
 
+Ejercicio Char ascii
+
+    function getChar(color){
+    // ...
+    return String.fromCharCode(color);
+    }
+
+    
