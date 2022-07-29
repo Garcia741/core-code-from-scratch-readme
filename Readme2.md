@@ -50,8 +50,7 @@ Ejercicio Ascii.
 Ejercicio Char ascii
 
     function getChar(color){
-    // ...
     return String.fromCharCode(color);
+    // fromCharCode, es el llamado a convertir en codigo ascii...
     }
 
-    
