@@ -57,6 +57,8 @@ Ejercicio Char ascii
 Ejercicio suma Binaria.
 
     function addBinary(a,b) {
-    return (a + b).toString(2);
+
+    return (a+b).toString(2);
+    console.log(a,b+"\t= tu resultado es: "+a+b)
     }
     //toString dvuelve un valor binario.
