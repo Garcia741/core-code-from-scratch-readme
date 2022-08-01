@@ -54,3 +54,9 @@ Ejercicio Char ascii
     // fromCharCode, es el llamado a convertir en codigo ascii...
     }
 
+Ejercicio suma Binaria.
+
+    function addBinary(a,b) {
+    return (a + b).toString(2);
+    }
+    //toString dvuelve un valor binario.
