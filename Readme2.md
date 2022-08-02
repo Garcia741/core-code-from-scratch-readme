@@ -69,7 +69,7 @@ Ejercicio Calificación Final del Estudiante.
     //exam = 91;
     //projects = 11;
     
-    let validacion
+    let validacion = 0;
     if(exam > 90 || projects >10){
         validacion = 100;
         console.log("\tEl alumno gano con meritos ")
