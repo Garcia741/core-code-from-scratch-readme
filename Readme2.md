@@ -63,3 +63,25 @@ Ejercicio suma Binaria.
     }
     //toString dvuelve un valor binario.
 
+Ejercicio Calificación Final del Estudiante.
+
+        function finalGrade (exam, projects) {
+    //exam = 91;
+    //projects = 11;
+    
+    let validacion
+    if(exam > 90 || projects >10){
+        validacion = 100;
+        console.log("\tEl alumno gano con meritos ")
+    }else if(exam > 75 && projects >=5){
+        validacion = 90;
+        console.log("\tEl alumno tiene nota aceptable")
+    }else if(exam >50 && projects >=2){
+        validacion = 75;
+        console.log("\tEl alumno necesita mejorar la nota")
+    }else if(exam <50 && projects <2){
+        console.log("\tEl Alumno perdio")
+    }
+    return validacion/* validacion, palabra creada para indicar por la sentencia
+    condicional si el alumno aprueba o no.*/
+
