@@ -132,3 +132,24 @@ Ejercicio Piedra, papel y tijera.
     }
     return 'Player 2 won!';
     };
+
+Ejercicio de Bugger persistente.
+
+    function persistence(num) {
+    var numString = num.toString();
+    var numDigitsCount = numString.length;
+    var numMultCount = 0;
+    
+    while (numDigitsCount > 1){
+        var numMultResult = 1;
+        for (var i = 0; i<= numString.length-1; i++){
+        numMultResult = numMultResult * numString[i];
+    
+        }
+        num = numMultResult;
+        numMultCount = numMultCount +1;
+        numString = num.toString();
+        numDigitsCount = numString.length;
+    }
+    return numMultCount;
+    } 
