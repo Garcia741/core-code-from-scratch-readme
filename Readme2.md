@@ -105,3 +105,19 @@ ejercicio eliminar todos los signos de exclamacion al final de la oracion.
         break;
         }
     } 
+
+Ejercicio eliminacion de vocales.
+
+    function shortcut (string) {
+    let remover = '';
+    
+    for(let j = 0; j < string.length; j++){
+        if(string[j] == 'a'||string[j] =='e'
+        ||string[j] =='i'||string[j] =='o'||string[j] =='u') {
+        
+        continue;
+        }
+        remover = remover + string[j];
+    }
+    return remover;
+    }
