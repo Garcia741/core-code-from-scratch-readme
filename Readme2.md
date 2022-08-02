@@ -62,3 +62,4 @@ Ejercicio suma Binaria.
     console.log(a,b+"\t= tu resultado es: "+a+b)
     }
     //toString dvuelve un valor binario.
+
