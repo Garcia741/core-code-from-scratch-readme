@@ -85,3 +85,6 @@ Ejercicio Calificación Final del Estudiante.
     return validacion/* validacion, palabra creada para indicar por la sentencia
     condicional si el alumno aprueba o no.*/
 
+# jueves
+
+ejercicio eliminar todos los signos de exclamacion al final de la oracion.
