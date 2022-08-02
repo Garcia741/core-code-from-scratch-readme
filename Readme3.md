@@ -1,4 +1,4 @@
 # 3 Weeks
 # Lunes
 
-Primer Ejercicio.
+Primer Ejercicio A quien le gusta.
