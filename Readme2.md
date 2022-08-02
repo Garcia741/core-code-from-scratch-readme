@@ -72,15 +72,16 @@ Ejercicio Calificación Final del Estudiante.
     let validacion = 0;
     if(exam > 90 || projects >10){
         validacion = 100;
-        console.log("\tEl alumno gano con meritos ")
+        //console.log("\tEl alumno gano con meritos ")
     }else if(exam > 75 && projects >=5){
         validacion = 90;
-        console.log("\tEl alumno tiene nota aceptable")
+        //console.log("\tEl alumno tiene nota aceptable")
     }else if(exam >50 && projects >=2){
         validacion = 75;
-        console.log("\tEl alumno necesita mejorar la nota")
+        //console.log("\tEl alumno necesita mejorar la nota")
     }else if(exam <50 && projects <2){
-        console.log("\tEl Alumno perdio")
+        validacion = 0;
+        //console.log("\tEl Alumno perdio")
     }
     return validacion/* validacion, palabra creada para indicar por la sentencia
     condicional si el alumno aprueba o no.*/
@@ -88,3 +89,19 @@ Ejercicio Calificación Final del Estudiante.
 # jueves
 
 ejercicio eliminar todos los signos de exclamacion al final de la oracion.
+
+    function remove (string) { 
+    let remover = '';
+    let lastVslidStringPosition = string.length -1;
+    /*lastVslidStringPosition accion para separar solo los 
+    signos de exclamacion de una palabra o conjunto de 
+    caracteres*/
+    for (let i = lastVslidStringPosition; i>0; i--){
+        /*recorriendo la palabra, para encontrar los signos a 
+        retirar de la palabra*/
+        if(string [i] !== '!'){
+        //instruccion para eliminar el signo cuando lo detecte.
+        remover = string.substring(0, i +1);
+        break;
+        }
+    } 
