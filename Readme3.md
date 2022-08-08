@@ -12,3 +12,14 @@ Primer Ejercicio    A quien le gusta?.
     return `${names[0]}, ${names[1]} and ${names.length - 2} others like this`;
     }
 
+Ejercicio Conteo de bits
+
+    var countBits = function(n) {
+      // Program Mevar countBits = function (n) {
+      let binaryNumber = n.toString(2);
+      let oneBitCount = 0;
+      for (let i = 0; i < binaryNumber.length; i++) {
+        if (binaryNumber[i] === '1') oneBitCount++;
+      }
+      return oneBitCount;
+    };
