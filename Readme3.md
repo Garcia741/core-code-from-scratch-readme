@@ -186,4 +186,10 @@ ejercicio cifrar esto.
     };
     
 # Desafia Principal.
+Quien eres?
 
+    Una persona dispuesta a entender nuevos retos,tratando de comprender lenguajes de programación
+    que me impulsaran en un futuro a largo plazo.
+    Buscando una superación personal y trabajar en codigo, es complicado y requiere mucha logica
+    pero, siempre es entretenido en lo personal es la razon del porque me gusta la programación.
+    
