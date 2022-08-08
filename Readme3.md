@@ -185,7 +185,7 @@ ejercicio cifrar esto.
       return text.split(' ').map(encryptedWord).join(' ');
     };
     
-# Desafia Principal.
+# Desafio Principal.
 Quien eres?
 
     Una persona dispuesta a entender nuevos retos,tratando de comprender lenguajes de programación
@@ -193,3 +193,41 @@ Quien eres?
     Buscando una superación personal y trabajar en codigo, es complicado y requiere mucha logica
     pero, siempre es entretenido en lo personal es la razon del porque me gusta la programación.
     
+Que antecedentes tienes?.
+    
+    Trato de aprender cosas de programación en youtube para tratar de mejorar la forma en la 
+    que programe, hasta el momento he aprendido algo de c++, c# y java por el momento solo se
+    lo basico, tratando cada dia de aprender un poco más de cada uno de esos lenguajes 
+    y ahora tratando de aprender lo que es javascript, esperando obtener un buen conocimeinto
+    en el buen manejo y tanto como en la optimización de los programas para que sean lo más
+    eficaces posibles.
+    
+Quien quieres hacer?.
+
+    Realizar y poder entregar proyectos para empresas con un buen desempeño
+    tanto de gastar solo los recursos necesarios y poder optimizar los programas para que sean lo
+    más eficaces posibles, dando al usuario una mayor satisfacción de que los programas o sitios
+    web esten funcionales de la mejor manera y tanto como a la empresa entregarle los resultados 
+    esperados para su mayor satisfacción.
+    
+¿Cuáles son los valores y principios fundamentales que rigen su carácter y contribuciones?.
+
+    La parte de poder crear programas que puedan veneficiar y contribuir para que los trabajos sean
+    eficaces y agilicen el funcionamiento de las cosas, para que las personas que usen los 
+    programas puedan realizar su trabajo más rapido y sin tanto esfuerzo, tratando de que progresemos
+    como sociedad ante las actualizaciones que se tienen en las industrias, comercios y demás.
+    
+    
+Misión.
+
+    Apoyar el desarrollo de la sociedad con los implementos que se requieran en el area de programación
+    tratar de implementar programas para empresas o industrias que lo requieran, agilizando los procesos 
+    con las mayores funcionalidades y eficacias de los programas o paginas web, desarrollando más
+    mis habilidades y dandole utilidad de la mejor, como lo es impulsar al desarrollo tecnologico 
+    dentro del comercio en linea, para todo tipo de sectores que lo requieran, esperando trabajar en 
+    empresas que soliciten de mi servicio y tratando de darles la mejor optimizacion de mis proyectos
+    tratando de darles proyectos eficaces.
+    
+    
+    
+
