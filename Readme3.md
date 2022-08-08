@@ -50,3 +50,20 @@ Ejercicio su pedido.
       return cleanUndefined(sortedArray).join(' ');
     }
     
+ # Martes
+ Ejercicio latin de cerdo simple.
+ Mueva la primera letra de cada palabra al final de la misma, luego agregue "ay" al final de la palabra. Deje los signos de puntuación intactos.
+ 
+     function pigIt(str) {
+      let pMarks = ['!', '¡', '?', '¿', '.', ',', ':', ';'];
+      str = str.split(' ');
+      for (let i = 0; i < str.length; i++) {
+        if (pMarks.indexOf(str[i]) >= 0) continue;
+        str[i] = str[i].slice(1) + str[i].slice(0, 1) + 'ay';
+      }
+      return str.join(' ');
+    }
+    
+ 
+ 
+    
