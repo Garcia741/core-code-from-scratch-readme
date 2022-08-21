@@ -13,6 +13,6 @@
 
 # Miercoles.
 
-   # La variable for in.
+    # La variable for in.
     La variable itera sobre cada uno de lo elementos que esten seleccionados
     es decir los que tinen un indice principal que los identifique.
