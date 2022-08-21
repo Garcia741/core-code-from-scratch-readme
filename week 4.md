@@ -1,7 +1,7 @@
 # Week 4.
 # Martes.
   
-    # La variable for of.
+  # La variable for of.
     La variable for Of nos ayuda a iterar dentro de un arreglo, mostrandonos solo 
     los datos por separados que contenga ese arreglo, en este caso ejem:
     const cubo1[1,2,3,4]
@@ -11,8 +11,9 @@
     }
   
 
-# Miercoles.
-
-    # La variable for in.
+  # La variable for in.
     La variable itera sobre cada uno de lo elementos que esten seleccionados
     es decir los que tinen un indice principal que los identifique.
+
+
+    # 
