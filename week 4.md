@@ -1,5 +1,5 @@
-#Week 4.
-#Martes.
+# Week 4.
+# Martes.
   
   #Variable for Of.
   La variable for Of nos ayuda a iterar dentro de un arreglo, mostrandonos solo 
@@ -10,4 +10,4 @@
   }
   
 
-#Miercoles.
+# Miercoles.
