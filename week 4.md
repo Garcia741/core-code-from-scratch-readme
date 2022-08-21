@@ -17,3 +17,9 @@
 
 # Miercoles.
   # Expreciones regulares
+
+    Las expreciones regulares son de gran ayuda, ya que mediante ellos
+    se pueden omitir siertas palabras o simbolos que se quieren ya sea
+    incluir o excluir de ellos, mediante simbolos de exprecion para poder
+    ahorrar código haciendolo más complejo y usando menos recursos a la 
+    hora de realizar un programa.
