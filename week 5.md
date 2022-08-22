@@ -9,6 +9,6 @@ Programación Funcional.
 Programación Orientada a Objetos.
 
         El programa encapsula las propiedades de un objeto el cual puede 
-        ser algu utencilio o algún ser vivo del cual se obengan multiples 
-        propiedades.
+        ser algun utencilio o algún ser vivo del cual se obengan multiples 
+        propiedades, el objeto es identificado como clase.
     
