@@ -1,5 +1,5 @@
 # Week 4.
-# Martes.
+# Lunes.
   
   # La variable for of.
     La variable for Of nos ayuda a iterar dentro de un arreglo, mostrandonos solo 
@@ -15,7 +15,7 @@
     La variable itera sobre cada uno de lo elementos que esten seleccionados
     es decir los que tinen un indice principal que los identifique.
 
-# Miercoles.
+# Martes.
   # Expreciones regulares
 
     Las expreciones regulares son de gran ayuda, ya que mediante ellos
