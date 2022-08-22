@@ -24,4 +24,17 @@
     ahorrar código haciendolo más complejo y usando menos recursos a la 
     hora de realizar un programa.
 
+  # Funcion Replace.
+     
+     La funcion de replace como su nombre lo dice, remplaza valores de
+     un String, ingresandole un nuevo valor en la area que se le 
+     indique.  
+
+# Miercoles.
+  # regex
+
+    Las funciones de REGEX facilita el manejo del codigo, para que el programa
+    sea más preciso y utilice menos código, mostrandolo más complejo
+    y con la misma funcionalidad, de un código de varias lineas.
+
   
