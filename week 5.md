@@ -3,9 +3,8 @@
     
 Programación Funcional.
 
-        El programa es funcional, cuando todo el código del
-        programa se ejecuta correctamente y logra su objetivo
-        din devuguearse.
+        El programa es funcional, cuando todo el código del programa 
+        se ejecuta correctamente y logra su objetivo sin devuguearse.
 
 Programación Orientada a Objetos.
 
