@@ -1,7 +1,7 @@
 # Week 6.
 # Lunes
 
-Typescript.
+Typescript.(Corrección de código)
 
     let firstName : string;
     let lastName : String;
