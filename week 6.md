@@ -85,4 +85,3 @@ Typescript. Laboratorio1 (Corrección de código)
     console.log(randomNumbers);
 
  
-    image.png
