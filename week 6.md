@@ -1,6 +1,12 @@
 # Week 6.
 # Lunes
 
+Modulo01
+
+    Creación de modulo completo, desde el .ts, js, tsconfig.json.html desde el
+    cmd conectando con VSCode.
+
+
 Typescript. Laboratorio1 (Corrección de código)
 
     let firstName : string;
