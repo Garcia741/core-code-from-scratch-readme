@@ -91,7 +91,7 @@ Typescript. Laboratorio1 (Corrección de código)
     console.log(randomNumbers);
 
  
-# 2
+# 1
 
                 export type User = {
         name: string;
@@ -119,7 +119,7 @@ Typescript. Laboratorio1 (Corrección de código)
         console.log('Users:');
         users.forEach(logPerson);
 
-# 3
+# 2
         interface User {
             name: string;
             age: number;
@@ -162,3 +162,4 @@ Typescript. Laboratorio1 (Corrección de código)
         }
 
         persons.forEach(logPerson);
+
