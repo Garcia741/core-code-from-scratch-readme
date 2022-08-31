@@ -578,3 +578,13 @@ Typescript. Laboratorio1 (Corrección de código)
 
         console.log('Power users:');
         persons.filter(isPowerUser).forEach(logPerson);
+
+# Martes.
+
+Suma de cuadrados.
+
+    function squareSum(numbers: number[]): number {
+        return numbers.reduce(
+        (prev: number, curr: number) => prev + Math.pow(curr, 2),0
+        );
+    }
