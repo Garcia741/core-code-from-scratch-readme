@@ -592,9 +592,10 @@ Suma de cuadrados.
 Lobo con Piel de Oveja.
 
         export function warnTheSheep(queue: string[]): string {
-    
+    //se implemento indexof de la palabra wolf, para saber la ubicacion de esa 
+    palabra especificamente.
     let wolf:number = queue.indexOf('wolf');
-    // 2.1
+    // 2.1 el ++wolf crea la forma de recorrer el arreglo de forma inversa.
     if(++wolf === queue.length) {
         return 'Pls go away and stop eating my sheep';
     }
