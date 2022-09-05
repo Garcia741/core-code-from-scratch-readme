@@ -588,3 +588,17 @@ Suma de cuadrados.
         (prev: number, curr: number) => prev + Math.pow(curr, 2),0
         );
     }
+
+Lobo con Piel de Oveja.
+
+        export function warnTheSheep(queue: string[]): string {
+    
+    let wolf:number = queue.indexOf('wolf');
+    // 2.1
+    if(++wolf === queue.length) {
+        return 'Pls go away and stop eating my sheep';
+    }
+    // 2.2
+    return `Oi! Sheep number ${queue.length - wolf}! You are about to be eaten by a wolf!`;
+    
+    }
