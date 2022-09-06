@@ -591,7 +591,7 @@ Suma de cuadrados.
 
 Lobo con Piel de Oveja.
 
-        export function warnTheSheep(queue: string[]): string {
+    export function warnTheSheep(queue: string[]): string {
     //se implemento indexof de la palabra wolf, para saber la ubicacion de esa 
     palabra especificamente.
     let wolf:number = queue.indexOf('wolf');
@@ -603,3 +603,19 @@ Lobo con Piel de Oveja.
     return `Oi! Sheep number ${queue.length - wolf}! You are about to be eaten by a wolf!`;
     
     }
+
+# Miercoles.
+
+Divisible por 13
+
+    export function thirt(n: number): number {
+    let remainders: number[] = [1, 10, 9, 12, 3, 4];
+    let result = n
+        .toString()
+        .split('')
+        .reverse()
+        .map((c: string, i: number) => parseInt(c) * remainders[i % 6])
+        .reduce((p: number, c: number) => (p += c));
+    return n == result ? result : thirt(result);
+    }
+
