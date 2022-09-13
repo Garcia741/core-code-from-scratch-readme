@@ -13,3 +13,20 @@ POO. Patito de Goma.
     programa y de esa forma explicandoselo a alguien el mismo programador
     comprendera mejor como manejar la cituación de su programa funcional.
 
+# Martes.
+
+# Miercoles.
+
+Ejercicio, hacer una torre.
+
+    if (nFloors === 1) return ['*'];
+    const tower: string[] = [];
+    const maxNumber = 2 * nFloors - 1;
+    for (let i = 1; i <= nFloors; i++) {
+        tower.push(
+        `${' '.repeat(nFloors - i)}${'*'.repeat(2 * i - 1)}${' '.repeat(
+            nFloors - i
+        )}`
+        );
+    }
+    return tower;
