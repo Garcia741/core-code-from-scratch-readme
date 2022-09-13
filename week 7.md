@@ -15,6 +15,7 @@ POO. Patito de Goma.
 
 # Martes.
 
+
 # Miercoles.
 
 Ejercicio, hacer una torre.
@@ -30,3 +31,4 @@ Ejercicio, hacer una torre.
         );
     }
     return tower;
+
