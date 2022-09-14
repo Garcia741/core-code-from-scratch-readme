@@ -1,5 +1,11 @@
 # Week 7.
 # Lunes.
+OOP.
+https://youtu.be/5EGS6lnghYE.
+
+
+
+
 
 POO. Patito de Goma.
 
