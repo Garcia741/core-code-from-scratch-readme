@@ -34,7 +34,7 @@ OOP.
 
 
 
-POO. Patito de Goma.
+OOP. Patito de Goma.
 
     Uno de los ejercicios muy funcionales dentro del mundo de la programación
     que da grandes resultados de como enteder mejor el código que se esta
