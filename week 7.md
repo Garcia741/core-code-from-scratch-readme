@@ -1,6 +1,7 @@
 # Week 7.
 # Lunes.
 OOP.
+
     Abstracción:
         https://youtu.be/oBO01Cx_YwQ.
     Herencia:
