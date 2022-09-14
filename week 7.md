@@ -1,7 +1,25 @@
 # Week 7.
 # Lunes.
 OOP.
-https://youtu.be/5EGS6lnghYE.
+    Abstracción:
+
+    Herencia:
+
+    Polimorfismo:
+
+    Encapsulación:
+
+    Clase
+    Objeto:
+
+    Instancia:
+
+    Interfaz:
+
+    Modificadores de acceso:
+    
+    Constructores
+    https://youtu.be/5EGS6lnghYE.
 
 
 
