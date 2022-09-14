@@ -13,9 +13,9 @@ OOP.
     Objeto:
 
     Instancia:
-
+        https://youtu.be/cpaMAO0Zm3Q.
     Interfaz:
-
+        https://youtu.be/4a0WB4l4Rkw.
     Modificadores de acceso:
         https://youtu.be/OKzN91ldizs.
     Constructores
