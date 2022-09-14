@@ -2,16 +2,16 @@
 # Lunes.
 OOP.
     Abstracción:
-
+        https://youtu.be/oBO01Cx_YwQ.
     Herencia:
-
+        https://youtu.be/9NynVRpZzv4.
     Polimorfismo:
-
+        https://youtu.be/tjjecfz9Cvk.
     Encapsulación:
-
+        https://youtu.be/gR0EssHrl24.
     Clase
     Objeto:
-
+        https://youtu.be/cfGrtrdDGRk.
     Instancia:
         https://youtu.be/cpaMAO0Zm3Q.
     Interfaz:
