@@ -31,4 +31,13 @@ Polimorfismo.
     Genera el uso de un metodo para varias funciones, esto genera que el codigo este reducido y que trabaje más
     sin necesidad de gastar más recursos.
 
-    
+# Martes.
+
+Diversión con Parametros.
+
+    function addNumbers (x: number, y: number): number {
+    return x + y;
+    }
+    ; // Returns 3
+    console.log(addNumbers(1, 2));
+    console.log(addNumbers(1,3));    // Returns an error. 
