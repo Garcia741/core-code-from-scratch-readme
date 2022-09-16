@@ -19,4 +19,16 @@ Abstracción.
 
 Herencia.
 
+    Dentro de la clase principal del programa se puede obtener un padre, asi llamado porque este tiene varias
+    propiedades que derivan de ello, al momento de generar otra clase, se puede mandar a llamar un elemento que
+    contiene el padre, porque ese elemento que contiene genera la misma funcionalidad para esa clase, sin 
+    necesidad de tener codigo de más.
+    dentro de otra clase puede acceder a sus metodos que ya se tienen y darles otro uso que a su vez
+    tambien implementa ala clase principal.
+
+Polimorfismo.
+
+    Genera el uso de un metodo para varias funciones, esto genera que el codigo este reducido y que trabaje más
+    sin necesidad de gastar más recursos.
+
     
