@@ -12,4 +12,11 @@ Encapsulamiento.
 
 Abstracción.
 
+    El metodo de abstracción, nos simplifica más la busqueda de elementos ya que varios de los objetos
+    muchas veces tienen los mismo elementos y simplificarlos es de gran ayuda esto es lo que el metodo de
+    abstracción genera, porque mediante el proceso que se le atribuye a un objeto nos puede servir para todos
+    los demas elementos, ahorrandonos codigo y demás dentro del programa.
+
+Herencia.
+
     
