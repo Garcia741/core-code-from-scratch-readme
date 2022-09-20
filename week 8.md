@@ -98,3 +98,17 @@ Código Duplicado.
     }); // [')','(',')',')','(',')',')']
     return encoded.join('');  
     }
+
+Número Impar.
+
+    const appereances = (numbers: number[], nToCount: number) => {
+    return numbers.filter((n: number) => n === nToCount).length;
+    };
+
+    export const findOdd = (xs: number[]): number => {
+    const nonRepeatNumbers = new Set(xs);
+    for (let n of nonRepeatNumbers) {
+        if (appereances(xs, n) % 2 !== 0) return n;
+    }
+    return -1;
+    };
