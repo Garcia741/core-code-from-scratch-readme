@@ -44,3 +44,12 @@ Diversión con Parametros.
 
 Clases Abstractas.
 
+    Dentro de una clase abstracta no puede ser una instancia, si no que, solo lo hereda, es una
+    super clase respecto de otras clases.
+
+Clase Abstracta vrs Interfaz.
+
+    La interfaz es una de las formas de realizar que varias clases se conecten para poder
+    interactuar de la mejor manera, mientras que las Clases abstractas son una super clase
+    que contienen propiedades que siempre se deben usar en la siguiente clase.
+
