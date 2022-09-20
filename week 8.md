@@ -53,3 +53,26 @@ Clase Abstracta vrs Interfaz.
     interactuar de la mejor manera, mientras que las Clases abstractas son una super clase
     que contienen propiedades que siempre se deben usar en la siguiente clase.
 
+# Miercoles.
+Haz, que el pez muerto Nade.
+
+    export function parse(data: string): number[] {
+    let v = 0,
+        result: number[] = [];
+    for (let d of data.split('')) {
+        switch (d) {
+        case 'i':
+            v++;
+            break;
+        case 'd':
+            v--;
+            break;
+        case 's':
+            v *= v;
+            break;
+        case 'o':
+            result.push(v);
+        }
+    }
+    return result;
+    }
