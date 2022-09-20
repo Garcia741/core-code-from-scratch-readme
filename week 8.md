@@ -41,3 +41,6 @@ Diversión con Parametros.
     ; // Returns 3
     console.log(addNumbers(1, 2));
     console.log(addNumbers(1,3));    // Returns an error. 
+
+Clases Abstractas.
+
