@@ -80,6 +80,9 @@ Haz, que el pez muerto Nade.
 
 Código Duplicado.
 
+    Generar un programa capaz de reconocer las letras duplicadas, separandolas y además
+    contandolas por aparte.
+
     export function duplicateEncode(word: string){ // Success
     // lower case
     word = word.toLowerCase(); // 'success'
@@ -101,6 +104,9 @@ Código Duplicado.
 
 Número Impar.
 
+    El programa debe de realizar una busqueda dentro del arreglo separando los
+    números que son impares de los pares.
+
     const appereances = (numbers: number[], nToCount: number) => {
     return numbers.filter((n: number) => n === nToCount).length;
     };
@@ -112,3 +118,6 @@ Número Impar.
     }
     return -1;
     };
+
+# Jueves.
+
