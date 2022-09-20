@@ -121,3 +121,27 @@ Número Impar.
 
 # Jueves.
 
+    interface Identity<T, U> {
+        value: T;
+        message: U;
+    }
+    let returnNumber: Identity<number, string> = {
+        value: 25,
+        message: 'Hello!'
+    }
+    let returnString: Identity<string, number> = {
+        value: 'Hello!',
+        message: 25
+    }
+    console.log(returnNumber);
+
+
+    /*interface ProcessIdentity<T, U> {
+        (value: T, message: U): T;
+    }
+    function processIdentity<T, U> (value: T, message: U) : T {
+        console.log(message);
+        return value
+    }
+
+    console.log(processIdentity(10,'hola'));*/
