@@ -12,3 +12,9 @@ React.
 
 # Miercoles.
 
+Más de React.
+
+    Se conforma por componentes del programa que ayudan a mejorar la calidad de la interación entre
+    el uso de los clientes con sus apps, como un ejemplo se puede observar a facebook, ya que 
+    es una app que usa de los componentes que react ofrece y que le a ayuda a mejorar su entorno
+    conbirtiendose en una app, usada por varios de nosotros en estos tiempos. 
