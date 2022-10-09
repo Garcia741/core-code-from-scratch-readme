@@ -28,4 +28,8 @@ Todo sobre Node JS.
         acceso aun a varias más. 
 
     ¿Qué es NVM y por qué es útil para los desarrolladores de Node.JS?
-        
+        Node Versión Manager, es una herramienta util, ala hora de que querramos 
+        realizar cualquier tipo de proyectos, porque nos permite instalar varias
+        versiones de NodeJS en un mismo ordenador y esto nos garantiza una mejor
+        utilización y aceptación de los proyectos no importano si es actual
+        o es un proyecto antiguo.
