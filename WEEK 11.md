@@ -35,4 +35,39 @@ Todo sobre Node JS.
         o es un proyecto antiguo.
 
 Sistemas de Modulos.
+    ¿Qué es un módulo Javascript?
+        Los modulos dentro de JS, son particiones dentro el sistema que nos 
+        permiten poder obtener más espacio dentro del proyecto, conteniendo clases
+        y librerias del programa dentro del mismo proyecto pero en otro espacio.
+    
+    ¿Por qué son necesarios los módulos de Javascript?
+        Justamente antes los programas eran pequeños y no tenian tanta complejidad
+        como hoy en dia, ahora los programas son más robustos y requieren de un extenso
+        codigo en el proyecto así que crear modulos nos reduce el script dentro de cada
+        particion del proyecto ademas nos facilita la comprencion del codigo.
+
+    ¿Qué estándares de módulos están disponibles en Node.JS?
+    
+
+    ¿Cuáles son las diferencias entre los módulos ESModules y CommonJS?
+        ESModules:
+            Con este tipo de modulos se puede realizar la importación de las funciones
+            que son clases o librerias que sean necesario para el proyecto con la particiones que 
+            se realicen con el uso de las funciones Import y Export.
+        CommoJS:
+            Son comunmente utilizados las palabras reservadas como lo son: require  y
+            module.exports, similares a las funciones de ESModules.
+
+    ¿Qué tipos de módulos existen en Node.JS?
+        Existen 3 Tipos de Modulos los que son:
+
+        Built-in Modules:
+            Modulo nativo de NodeJS, por defecto ya lo tiene instalado,las funciones que son
+            utilizadas comunmente son: fs o stream. 
+        Local Modules:
+            Son los modulos que el desarrollador crear, para el uso de todo el proyecto.
+        External Modules:
+            Son por decirlo así modulos que otros ya crearon en el proyecto que simplemente
+            sirven para la funcionalidad del proyecto pero otro desarrollador ya los dejo por
+            defecto ya él habiendo creando sus respectivas librerías dentro de la misma.
 
