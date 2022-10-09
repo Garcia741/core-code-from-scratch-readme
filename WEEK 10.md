@@ -21,3 +21,20 @@ Más de React.
 
 # Jueves.
 
+Kata React.
+
+    import React from 'react';
+
+    export const EggList = ({nombre, edad}) => {
+    return (
+        <ul>
+        {eggs.map((egg, index) => {
+            return <EasterEgg name={egg} key={index}/>
+        })}
+        </ul>
+    )
+    };
+
+    export const EasterEgg = ({name}) => {
+        return <li>{name}</li>
+    };
