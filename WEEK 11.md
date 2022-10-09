@@ -55,7 +55,7 @@ Sistemas de Modulos.
             Con este tipo de modulos se puede realizar la importación de las funciones
             que son clases o librerias que sean necesario para el proyecto con la particiones que 
             se realicen con el uso de las funciones Import y Export.
-        CommoJS:
+        CommonJS:
             Son comunmente utilizados las palabras reservadas como lo son: require  y
             module.exports, similares a las funciones de ESModules.
 
@@ -65,8 +65,10 @@ Sistemas de Modulos.
         Built-in Modules:
             Modulo nativo de NodeJS, por defecto ya lo tiene instalado,las funciones que son
             utilizadas comunmente son: fs o stream. 
+
         Local Modules:
             Son los modulos que el desarrollador crear, para el uso de todo el proyecto.
+            
         External Modules:
             Son por decirlo así modulos que otros ya crearon en el proyecto que simplemente
             sirven para la funcionalidad del proyecto pero otro desarrollador ya los dejo por
